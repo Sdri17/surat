@@ -1,0 +1,82 @@
+/* untuk navbar */
+
+/* .fa-bars span{
+	color: antiquewhite;
+
+} */
+.navbar {
+	margin-bottom: -450px;
+	
+}
+
+.navbar-toggler-icon{
+	background-color: white;
+}
+
+#navbarNavDropdown{
+	background-color: #626968;
+
+
+	
+}
+#navbarNavDropdown.navbar-nav ul{
+	align-content: center;
+	margin-left: 50px;
+}	
+.navbar.navbar ul li a{
+	font-size: 20px;
+	margin: auto;
+	color: white;
+	font-weight: 600;
+}
+.navbar.navbar ul li a:hover{
+	color: #0DC4C2;
+	background-color: white;
+	font-weight: 700;
+	font-size: 20px;
+}
+
+
+
+
+
+/* tabel */
+.table{
+	width: 100%;
+	border-collapse: collapse;
+
+	
+}
+
+.table tr {
+	border: 2px solid darkgray ;
+}
+
+
+.table thead{
+	font-size: 20px;
+	font-weight: 600;
+	background-color: #344E53;
+	color: white;
+
+}
+/* 
+.table tbody .btn:hover{
+	background-color: #6EB8B2;
+	font-size: 30px;
+font-weight: 600;
+}
+
+/* .table tbody tr:hover{
+	font-weight: 700;
+	background-color: #559E5F;
+
+} */
+
+
+ .table tbody .btn i{
+	font-size: 20px;
+	margin: 2px;
+	color: white;
+}
+
