@@ -12,7 +12,7 @@ include"navbar.php";
 	<title>index</title>
 	<style type="text/css">
 		/* .slide{
-			width: 800px;
+			width: 801px;
 			height: 400px; */
 			/* margin-left: 400px;
 			margin-top: -300px;
